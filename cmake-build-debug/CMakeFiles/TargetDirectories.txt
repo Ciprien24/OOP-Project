@@ -1,0 +1,3 @@
+/Users/test1/Desktop/TemaIA/cmake-build-debug/CMakeFiles/TemaIA.dir
+/Users/test1/Desktop/TemaIA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/test1/Desktop/TemaIA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
